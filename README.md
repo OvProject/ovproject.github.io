@@ -8,4 +8,4 @@ Focus areas:
 - Signal processing
 - Mathematical modeling
 
-Website: https://ObadiahVenant.github.io
+Website: ovproject.github.io
