@@ -1,2 +1,2 @@
-C++ Learned Applications
+C++ Learned Applications of learned content
 
